@@ -11,7 +11,8 @@
             #Visit http://localhost:3000
 ```
 
-CRUD app with  rmtp server implementation. You can create stream with title and description and use it's id
+CRUD app with  rmtp server implementation and Google sign in. 
+You can create stream with title and description and use it's id
 (last part of url after /) with streaming software to broadcast your desktop in real time.
 
 
