@@ -11,9 +11,11 @@
             #Visit http://localhost:3000
 ```
 
-CRUD app with  rmtp server implementation and Google sign in. 
+CRUD app with  RMTP server implementation and Google sign in. 
 Sign in with Google to create stream with title and description and use it's id
-(last part of url after /) with streaming software to broadcast your desktop in real time.
+( number after /) with streaming software to broadcast your desktop in real time.
+Only owner of stream(s) can delete or edit them. As guest you cannot create or 
+edit/delete stream.
 
 
 ## Built With
